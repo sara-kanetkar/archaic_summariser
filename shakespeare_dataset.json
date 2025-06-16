@@ -1,0 +1,228 @@
+  [
+  {
+    "source": "To be, or not to be, that is the question.",
+    "target": "The speaker is wondering whether it's better to live or die."
+  },
+  {
+    "source": "Parting is such sweet sorrow.",
+    "target": "Saying goodbye is painful but also beautiful."
+  },
+  {
+    "source": "Thou art more lovely and more temperate.",
+    "target": "You are more beautiful and calm than anything else."
+  },
+  {
+    "source": "All that glitters is not gold.",
+    "target": "Not everything that looks valuable is truly valuable."
+  },
+  {
+    "source": "The lady doth protest too much, methinks.",
+    "target": "She's denying too strongly—it seems suspicious."
+  },
+  {
+    "source": "What light through yonder window breaks?",
+    "target": "What is that light coming from the window?"
+  },
+  {
+    "source": "Now is the winter of our discontent.",
+    "target": "We are currently in a time of unhappiness or trouble."
+  },
+  {
+    "source": "Out, damned spot! Out, I say!",
+    "target": "Get off, stain of guilt! I'm trying to be free of it."
+  },
+  {
+    "source": "I am one who loved not wisely but too well.",
+    "target": "I loved too deeply, though not wisely."
+  },
+  {
+    "source": "A horse! A horse! My kingdom for a horse!",
+    "target": "I'd give anything, even my kingdom, for a horse right now."
+  },
+  {
+    "source": "Neither a borrower nor a lender be.",
+    "target": "Don’t borrow or lend money."
+  },
+  {
+    "source": "Something is rotten in the state of Denmark.",
+    "target": "Something suspicious or bad is happening in Denmark."
+  },
+  {
+    "source": "The better part of Valour, is Discretion.",
+    "target": "True courage often involves knowing when to avoid danger."
+  },
+  {
+    "source": "Et tu, Brute?",
+    "target": "You too, Brutus? Even you betrayed me?"
+  },
+  {
+    "source": "Though she be but little, she is fierce.",
+    "target": "She may be small, but she is very strong and bold."
+  },
+  {
+    "source": "All the world’s a stage, and all the men and women merely players.",
+    "target": "Life is like a play and people just play roles."
+  },
+  {
+    "source": "Brevity is the soul of wit.",
+    "target": "Being brief is the key to intelligence or humor."
+  },
+  {
+    "source": "There is nothing either good or bad, but thinking makes it so.",
+    "target": "Things are not good or bad by themselves—it’s how we see them."
+  },
+  {
+    "source": "Cowards die many times before their deaths; the valiant never taste of death but once.",
+    "target": "Cowards fear death over and over, but brave people face it only once."
+  },
+  {
+    "source": "Hell is empty and all the devils are here.",
+    "target": "This place is so bad, it's like all the devils have left hell and come here."
+  },
+  
+  {
+    "source": "To be, or not to be, that is the question.",
+    "target": "The speaker is wondering whether it's better to live or die."
+  },
+  {
+    "source": "This was written by my friend from the Samaritan family.",
+    "target": "The text's author is a member of the Samaritan community."
+  },
+  {
+    "source": "The software update will deploy tomorrow.",
+    "target": "A new software update is scheduled for tomorrow."
+  },
+  {
+    "source": "The sun sets in the west.",
+    "target": "The sun goes down in the western part of the sky."
+  },
+  {
+    "source": "A journey of a thousand miles begins with a single step.",
+    "target": "To start a long journey, you must take the first step."
+  },
+  {
+    "source": "Knowledge is power.",
+    "target": "Having knowledge gives you strength and influence."
+  },
+  {
+    "source": "Actions speak louder than words.",
+    "target": "What you do is more important than what you say."
+  },
+  {
+    "source": "Time heals all wounds.",
+    "target": "With time, emotional pain will lessen."
+  },
+  {
+    "source": "Beauty is in the eye of the beholder.",
+    "target": "What is beautiful depends on who is looking."
+  },
+  {
+    "source": "When in Rome, do as the Romans do.",
+    "target": "Follow the customs of the place you are visiting."
+  },
+  {
+    "source": "The pen is mightier than the sword.",
+    "target": "Writing is more powerful than violence."
+  },
+  {
+    "source": "A picture is worth a thousand words.",
+    "target": "An image can express complex ideas better than words."
+  },
+  {
+    "source": "The early bird catches the worm.",
+    "target": "Those who wake up early have an advantage."
+  },
+  {
+    "source": "A stitch in time saves nine.",
+    "target": "Fixing a small problem now prevents bigger problems later."
+  },
+  {
+    "source": "You can’t judge a book by its cover.",
+    "target": "Don’t judge something based only on its appearance."
+  },
+  {
+    "source": "The grass is always greener on the other side.",
+    "target": "People often think others have it better than they do."
+  },
+  {
+    "source": "Every cloud has a silver lining.",
+    "target": "There is something good in every bad situation."
+  },
+  {
+    "source": "Better late than never.",
+    "target": "It’s better to do something late than not do it at all."
+  },
+  {
+    "source": "This was written by my friend from the Samaritan family.",
+    "target": "The text's author is a member of the Samaritan community."
+  },
+  {
+    "source": "The software update will deploy tomorrow.",
+    "target": "A new software update is scheduled for tomorrow."
+  },
+  {
+    "source": "The sun sets in the west.",
+    "target": "The sun goes down in the western part of the sky."
+  },
+  {
+    "source": "A journey of a thousand miles begins with a single step.",
+    "target": "To start a long journey, you must take the first step."
+  },
+  {
+    "source": "Knowledge is power.",
+    "target": "Having knowledge gives you strength and influence."
+  },
+  {
+    "source": "Actions speak louder than words.",
+    "target": "What you do is more important than what you say."
+  },
+  {
+    "source": "Time heals all wounds.",
+    "target": "With time, emotional pain will lessen."
+  },
+  {
+    "source": "Beauty is in the eye of the beholder.",
+    "target": "What is beautiful depends on who is looking."
+  },
+  {
+    "source": "When in Rome, do as the Romans do.",
+    "target": "Follow the customs of the place you are visiting."
+  },
+  {
+    "source": "The pen is mightier than the sword.",
+    "target": "Writing is more powerful than violence."
+  },
+  {
+    "source": "A picture is worth a thousand words.",
+    "target": "An image can express complex ideas better than words."
+  },
+  {
+    "source": "The early bird catches the worm.",
+    "target": "Those who wake up early have an advantage."
+  },
+  {
+    "source": "A stitch in time saves nine.",
+    "target": "Fixing a small problem now prevents bigger problems later."
+  },
+  {
+    "source": "You can’t judge a book by its cover.",
+    "target": "Don’t judge something based only on its appearance."
+  },
+  {
+    "source": "The grass is always greener on the other side.",
+    "target": "People often think others have it better than they do."
+  },
+  {
+    "source": "Every cloud has a silver lining.",
+    "target": "There is something good in every bad situation."
+  },
+  {
+    "source": "Better late than never.",
+    "target": "It’s better to do something late than not do it at all."
+  },
+  {
+    "source": "A stitch in time saves nine.",
+    "target": "Fixing a small problem now prevents bigger problems later."
+  }
+]
+  
